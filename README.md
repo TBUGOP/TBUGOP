@@ -3,8 +3,9 @@
 ## A tech enthusiast, explorer, learner, gym and cosmos lover! 🇮🇳
 
 ## 💫 About Me:
-🔭 I’m currently working on a Blockchain Project.<br><br>🌱 I’m currently learning Ethereum Blockchain Development Frameworks [Solidity, Truffle, Metamask, Genache, and Remix.]<br><br>👯 I’m looking to collaborate on pretty much any good nerdy project.<br><br>💻 I'm currently looking for a full-time software engineering or blockchain developer job but am open to Finance too!<br><br>💬 Ask me about Space, Science, Maths, Music, or anything crazy or nerdy ideas.<br><br>📫 How to reach me umanggarg2002@gmail.com<br><br>📄 Know about my experiences by checking out my resume!<br><br><br>
+🔭 I’m currently working on a Blockchain Project.<br><br>🌱 I’m currently learning Ethereum Blockchain Development Frameworks [Solidity, Truffle, Metamask, Genache, and Remix.]<br><br>👯 I’m looking to collaborate on pretty much any good nerdy project.<br><br>💻 I'm currently looking for a full-time software engineering or blockchain developer job but am open to Finance too!<br><br>💬 Ask me about Space, Science, Maths, Music, or anything crazy or nerdy ideas.<br><br>📫 How to reach me umanggarg2002@gmail.com<br><br>📄 Know about my experiences by checking out my resume!<br><br>
 
+[![](https://visitcount.itsvg.in/api?id=TBUGOP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umang-garg-3a6147210/) 
@@ -17,7 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TBUGOP&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TBUGOP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
