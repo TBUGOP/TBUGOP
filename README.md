@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Umang Garg
 
 # 💫 About Me:
 🔭 I’m currently working on a Blockchain Project.<br><br>🌱 I’m currently learning Ethereum Blockchain Development Frameworks [Solidity, Truffle, Metamask, Genache, and Remix.]<br><br>👯 I’m looking to collaborate on pretty much any good nerdy project.<br><br>💻 I'm currently looking for a full-time software engineering or blockchain developer job but am open to Finance too!<br><br>💬 Ask me about Space, Science, Maths, Music, or anything crazy or nerdy ideas.<br><br>📫 How to reach me umanggarg2002@gmail.com<br><br>📄 Know about my experiences by checking out my resume!<br><br><br>
