@@ -10,7 +10,7 @@
 📫 How to reach me <a href="mailto:umanggarg2002@gmail.com">umanggarg2002@gmail.com</a><br><br>
 <!-- 📄 Know about my experiences by checking out my resume!<br><br> -->
 
-[![](https://visitcount.itsvg.in/api?id=TBUGOP&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=TBUGOP&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umang-garg-3a6147210/) 
