@@ -1,7 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Umang Garg </h1>
 
-<h3 align="center"> A tech & finance enthusiast, explorer, learner, gym and cosmos lover! 🇮🇳 </h3>
+<h3 align="center"> A tech & finance enthusiast, explorer, learner, gym and cosmos lover! </h3>
 </br>
+
 🚀 Independent Quant Developer | Tech & Finance Innovator<br><br>
 
 🌱 Currently building algorithmic trading solutions and exploring quantitative finance models.<br><br>
