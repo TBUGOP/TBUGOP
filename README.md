@@ -7,21 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/umang-garg-3a6147210/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="https://medium.com/@tbugop" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>&nbsp;
-  <a href="mailto:umang.devworks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://github.com/TBUGOP" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
-
-### 🌱 About Me
 - 🌱 Currently building **algorithmic trading solutions** and exploring **quantitative finance models**.  
 - 💻 Past experience with **Ethereum blockchain development** using Solidity, Truffle, Metamask, Ganache, and Remix.  
 - ✍️ Certified in **NISM & EPAT**, sharing insights on **financial markets, algorithmic strategies, and data-driven finance** on [Medium](https://medium.com/@tbugop).  
@@ -57,13 +46,3 @@
 
 ---
 
-### 🌐 Portfolio & Projects
-- [Medium Articles](https://medium.com/@tbugop) – Insights on finance, algo trading & quantitative research.  
-- [GitHub Projects](https://github.com/TBUGOP) – Algo trading, blockchain, and quant development projects.  
-
----
-
-### 👀 Visitor Count
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TBUGOP&left_color=purple&right_color=blue" alt="Visitor Badge"/>
-</p>
