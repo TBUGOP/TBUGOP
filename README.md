@@ -1,13 +1,14 @@
 <h1 align="center"> Hi 👋, I'm Umang Garg </h1>
 
-<h3 align="center"> A tech enthusiast, explorer, learner, gym and cosmos lover! 🇮🇳 </h3>
+<h3 align="center"> A tech & finance enthusiast, explorer, learner, gym and cosmos lover! 🇮🇳 </h3>
 </br>
-🔭 I’m currently working on a Blockchain Project.<br><br>
-🌱 I’m currently learning Ethereum Blockchain Development Frameworks [Solidity, Truffle, Metamask, Genache, and Remix.]<br><br>
-👯 I’m looking to collaborate on pretty much any good nerdy project.<br><br>
-💻 I'm currently looking for a full-time software engineering or blockchain developer job but am open to Finance too!<br><br>
+🚀 Independent Quant Developer | Tech & Finance Innovator <br><br>
+🌱 Currently building algorithmic trading solutions and exploring quantitative finance models.<br><br>
+💻 Past experience with Ethereum blockchain development using Solidity, Truffle, Metamask, Ganache, and Remix.<br><br>
+✍️ Certified in NISM & EPAT, publishing insights on financial markets, algorithmic strategies, and data-driven finance on <a href="https://medium.com/@tbugop"> Medium.
 💬 Ask me about Space, Science, Maths, Music, or anything crazy or nerdy ideas.<br><br>
-📫 How to reach me <a href="mailto:umang.devworks@gmail.com">umang.devworks@gmail.com</a><br>
+👯 Open to collaborating on nerdy projects in finance, tech, or innovative research.<br><br>
+📫 Reach me at <a href="mailto:umang.devworks@gmail.com">umang.devworks@gmail.com</a><br>
 <!-- 📄 Know about my experiences by checking out my resume!<br><br> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=TBUGOP&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
