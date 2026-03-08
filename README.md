@@ -5,7 +5,7 @@
 🚀 Independent Quant Developer | Tech & Finance Innovator <br><br>
 🌱 Currently building algorithmic trading solutions and exploring quantitative finance models.<br><br>
 💻 Past experience with Ethereum blockchain development using Solidity, Truffle, Metamask, Ganache, and Remix.<br><br>
-✍️ Certified in NISM & EPAT, publishing insights on financial markets, algorithmic strategies, and data-driven finance on <a href="https://medium.com/@tbugop"> Medium.
+✍️ Certified in NISM & EPAT, publishing insights on financial markets, algorithmic strategies, and data-driven finance on <a href="https://medium.com/@tbugop"> Medium.<br><br>
 💬 Ask me about Space, Science, Maths, Music, or anything crazy or nerdy ideas.<br><br>
 👯 Open to collaborating on nerdy projects in finance, tech, or innovative research.<br><br>
 📫 Reach me at <a href="mailto:umang.devworks@gmail.com">umang.devworks@gmail.com</a><br>
